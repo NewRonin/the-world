@@ -2,6 +2,7 @@
     <string name="app_name">TheWorld</string>
     <string name="recent_news">Recent News</string>
     <string name="response_exception">Something went wrong! Unable to reach news source!</string>
+    <string name="search_exception">No results found!</string>
 
     <string name="icon_news">News icon</string>
 </resources>
